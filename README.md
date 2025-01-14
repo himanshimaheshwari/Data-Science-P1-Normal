@@ -1,4 +1,4 @@
-# Data-Science-P1
+# customer-eda-analysis
 
 
 A data analysis project that focuses on understanding and analyzing
